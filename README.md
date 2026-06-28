@@ -1,4 +1,4 @@
-# 📦 Raw Orders Data Cleaning & Analysis Project
+# Raw Orders Data Cleaning & Analysis Project
 
 ---
 
