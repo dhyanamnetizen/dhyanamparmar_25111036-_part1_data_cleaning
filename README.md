@@ -1,4 +1,4 @@
-# Business Analytics Assignment
+# Business Analytics Assignment - Capstone Project - Part 1
 ## 1. Problem Summary
 ## 2. Dataset Description
 ## 3. Tools Used
